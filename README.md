@@ -2,9 +2,9 @@
 <h3 align="center">A frontend developer from India.</h3>
 <img align="center" alt="coding" width=400 src="https://i.gifer.com/6tXM.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav-2-0-0-2&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav-2-0-0-2" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gaurav-2-0-0-2&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav-2-0-0-2" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@alloy99" target="blank"><img src="https://img.shields.io/twitter/follow/@alloy99?logo=twitter&style=for-the-badge" alt="@alloy99" /></a> </p>
+<p align="center"> <a href="https://twitter.com/@alloy99" target="blank"><img src="https://img.shields.io/twitter/follow/@alloy99?logo=twitter&style=for-the-badge" alt="@alloy99" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
