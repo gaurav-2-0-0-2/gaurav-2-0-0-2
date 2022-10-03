@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav Tak</h1>
 <h3 align="center">A frontend developer from India.</h3>
-<img align="right" alt="coding" width=400 src="https://i.gifer.com/6tXM.gif">
+<img align="center" alt="coding" width=400 src="https://i.gifer.com/6tXM.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav-2-0-0-2&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav-2-0-0-2" /> </p>
 
@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@alloy99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@alloy99" height="30" width="40" /></a>
+<a href="https://twitter.com/@alloy992" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@alloy99" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gaurav tak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav tak" height="30" width="40" /></a>
 <a href="https://codesandbox.com/gaurav tak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="gaurav tak" height="30" width="40" /></a>
 <a href="https://instagram.com/1_gauravtak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1_gauravtak" height="30" width="40" /></a>
