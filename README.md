@@ -4,8 +4,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gaurav-2-0-0-2&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav-2-0-0-2" /> </p>
 
-<p align="center"> <a href="https://twitter.com/@alloy992" target="blank"><img src="https://img.shields.io/twitter/follow/@alloy992?logo=twitter&style=for-the-badge" alt="@alloy992" /></a> </p>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/@alloy992" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@alloy992" height="30" width="40" /></a>
