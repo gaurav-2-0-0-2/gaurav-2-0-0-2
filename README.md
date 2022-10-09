@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Tak</h1>
-<h3 align="center">A frontend developer from India.</h3>
+<h3 align="center">A frontend web developer from India.</h3>
 <img align="center" alt="coding" width=400 src="https://i.gifer.com/6tXM.gif">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gaurav-2-0-0-2&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav-2-0-0-2" /> </p>
